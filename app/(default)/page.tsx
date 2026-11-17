@@ -1,6 +1,7 @@
 export const metadata = {
-  title: "Home - Open PRO",
-  description: "Page description",
+  title: "NeuroLab - Entenda como o seu cérebro aprende",
+  description:
+    "Plasticidade neural, memória, atenção e sono explicados de forma simples.",
 };
 
 import PageIllustration from "@/components/page-illustration";
